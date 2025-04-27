@@ -8,8 +8,7 @@ A simple Whack-a-Mole game built using JavaScript, HTML, and CSS.
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
