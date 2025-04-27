@@ -40,3 +40,7 @@ Whack-a-Mole is a fun and interactive browser game where players try to "whack" 
 - Try to beat your high score!
 
 
+
+## Demo
+
+![Whack-a-Mole Gameplay](media/Whack-A-Mole.gif)
