@@ -37,3 +37,12 @@ body{
   -webkit-user-select: none;
   -ms-user-select: none;
 }
+
+
+video{
+  width: 50%;
+  height: auto;
+  border: 5px solid white;
+  border-radius: 25%;
+  margin-top: 20px;
+}
